@@ -27,6 +27,17 @@ C:\Users\Admin\.local\bin\uv.exe --version
 # activate virtual environment
 .venv/Scripts/activate
 
+*****************************
+cd D:\AGENTIC_AI_PROJECTS\AGENTIC_AI
+
+python -m venv .venv
+
+.venv\Scripts\activate
+
+pip install ipykernel
+python -m ipykernel install --user --name agentic_ai --display-name "Python (agentic_ai)"
+*****************************
+
 * uv add ipykernel
 
 * uv add <library_name>

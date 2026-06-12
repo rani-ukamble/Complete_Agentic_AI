@@ -153,3 +153,16 @@ where.exe ollama
 ```
 # Now check
 ollama --version
+
+
+
+*****************************
+
+cd D:\AGENTIC_AI_PROJECTS\AGENTIC_AI
+
+python -m venv .venv
+
+.venv\Scripts\activate
+
+pip install ipykernel
+python -m ipykernel install --user --name agentic_ai --display-name "Python (agentic_ai)"
