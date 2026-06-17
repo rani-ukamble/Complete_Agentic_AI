@@ -10,3 +10,10 @@ langsmith
 langchain_tavily
 langchain-mcp-adapters
 mcp
+langchain-core
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+typesense

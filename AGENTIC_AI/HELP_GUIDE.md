@@ -8,6 +8,7 @@ https://github.com/langchain-ai
 https://docs.astral.sh/uv/getting-started/installation/
 
 * Install UV package maanger:
+
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 
 * Initialize uv:
@@ -31,6 +32,9 @@ C:\Users\Admin\.local\bin\uv.exe --version
 cd D:\AGENTIC_AI_PROJECTS\AGENTIC_AI
 
 python -m venv .venv
+
+py -3.11 -m venv .venv
+
 
 .venv\Scripts\activate
 
