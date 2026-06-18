@@ -1,5 +1,2 @@
-## Complete_Agentic_AI hands on #
+## Complete_Agentic_AI hands on 
 *********************************
-main
-feat
-1
